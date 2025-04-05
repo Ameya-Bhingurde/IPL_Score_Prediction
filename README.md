@@ -86,5 +86,4 @@ Each model was evaluated using:
 - Gained practical experience in feature engineering & model validation
 
 ---
-
-> **Always curious about what comes next — even before the innings ends. 🎯**
+**Always curious about what comes next — even before the innings ends. 🎯**
