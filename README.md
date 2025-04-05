@@ -28,13 +28,13 @@ This project explores that question using historical IPL data and trains several
 
 Seven features were engineered and selected for modeling:
 
-- `batting_team` 🟢  
-- `bowling_team` 🔴  
-- `overs` ⏱️  
-- `runs` 💥  
-- `wickets` ❌  
-- `runs_in_prev_5` 🚀  
-- `wickets_in_prev_5` 🛑  
+- `batting_team` 
+- `bowling_team` 
+- `overs`   
+- `runs`  
+- `wickets` 
+- `runs_in_prev_5` 
+- `wickets_in_prev_5` 
 
 Categorical variables were one-hot encoded for model compatibility.
 
